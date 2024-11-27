@@ -131,6 +131,6 @@ Demo Video:https://youtu.be/4OymI0MrVVU
 
 
 ```bash 
-MVP:https://github.com/pheobeayo/whistlechain-smart
+MVP:https://whistlechain-emc.vercel.app/ 
 
 ```
