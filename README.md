@@ -98,7 +98,7 @@ Design:
 
 ```bash 
 Repo:  
- https://github.com/pheobeayo/whistlechain-emc
+ https://github.com/pheobeayo/whistlechain-smart
  
  ``` 
 
@@ -131,6 +131,6 @@ Demo Video:https://youtu.be/4OymI0MrVVU
 
 
 ```bash 
-MVP:https://whistlechain-emc.vercel.app/ 
+MVP:https://github.com/pheobeayo/whistlechain-smart
 
 ```
