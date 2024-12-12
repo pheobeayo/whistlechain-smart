@@ -2713,9 +2713,9 @@ electron-to-chromium@^1.5.28:
   integrity sha512-+cYTcFB1QqD4j4LegwLfpCNxifb6dDFUAwk6RsLusCwIaZI6or2f+q8rs5tTB2YC53HhOlIbEaqHMAAC8IOIwA==
 
 elliptic@^6.5.4, elliptic@^6.5.7:
-  version "6.5.7"
-  resolved "https://registry.npmjs.org/elliptic/-/elliptic-6.5.7.tgz"
-  integrity sha512-ESVCtTwiA+XhY3wyh24QqRGBoP3rEdDUl3EDUUo9tft074fi19IrdpH7hLCMMP3CIj7jb3W96rn8lt/BqIlt5Q==
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.6.1.tgz#3b8ffb02670bf69e382c7f65bf524c97c5405c06"
+  integrity sha512-RaddvvMatK2LJHqFJ+YA4WysVN5Ita9E35botqIYspQ4TkRAlCicdzKOjlyv/1Za5RyTNn7di//eEV0uTAfe3g==
   dependencies:
     bn.js "^4.11.9"
     brorand "^1.1.0"
@@ -5805,7 +5805,7 @@ which@^2.0.1:
     react-toastify "^10.0.5"
     viem "2.x"
     wagmi "^2.12.17"
-    whistlechain "file:../../../AppData/Local/Yarn/Cache/v6/npm-whistlechain-0.0.0-df572fc8-f47a-4813-976f-438a7ee720ba-1732538901996/node_modules/whistlechain"
+    whistlechain "file:."
 
 word-wrap@^1.2.5:
   version "1.2.5"
