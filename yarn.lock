@@ -5687,10 +5687,10 @@ viem@2.x, viem@^2.1.1, viem@^2.17.4:
     isows "1.0.4"
     ws "8.17.1"
 
-vite@^5.4.8:
-  version "5.4.8"
-  resolved "https://registry.npmjs.org/vite/-/vite-5.4.8.tgz"
-  integrity sha512-FqrItQ4DT1NC4zCUqMB4c4AZORMKIa0m8/URVCZ77OZ/QSNeJ54bU1vrFADbDsuwfIPcgknRkmqakQcgnL4GiQ==
+vite@^5.4.14:
+  version "5.4.14"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.14.tgz#ff8255edb02134df180dcfca1916c37a6abe8408"
+  integrity sha512-EK5cY7Q1D8JNhSaPKVK4pwBFvaTmZxEnoKXLG/U9gmdDcihQGNzFlgIvaxezFR4glP1LsuiedwMBqCXH3wZccA==
   dependencies:
     esbuild "^0.21.3"
     postcss "^8.4.43"
@@ -5805,7 +5805,7 @@ which@^2.0.1:
     react-toastify "^10.0.5"
     viem "2.x"
     wagmi "^2.12.17"
-    whistlechain "file:../../../AppData/Local/Yarn/Cache/v6/npm-whistlechain-0.0.0-df572fc8-f47a-4813-976f-438a7ee720ba-1732538901996/node_modules/whistlechain"
+    whistlechain "file:."
 
 word-wrap@^1.2.5:
   version "1.2.5"
